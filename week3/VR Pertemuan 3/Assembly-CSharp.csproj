@@ -120,6 +120,7 @@
      <Compile Include="Assets\GoogleVR\Scripts\InstantPreview\Internal\InstantPreview.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\GvrBetaHeadset.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\VideoDemo\InputEvents\TouchPadEvent.cs" />
+     <Compile Include="Assets\UbahWarna.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\HelloVR\ObjectController.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\ControllerState.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\Internal\GvrBetaAndroidNativeControllerInputProvider.cs" />
@@ -179,7 +180,6 @@
      <Compile Include="Assets\GoogleVR\Beta\Scripts\GvrBetaControllerVisualMulti.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\Internal\KeyboardProviders\AndroidNativeKeyboardProvider.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\Internal\KeyboardProviders\EmulatorKeyboardProvider.cs" />
-     <Compile Include="Assets\UbahWarna.cs" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrReticleShader.shader" />
      <None Include="Assets\GoogleVR\Beta\Shaders\GvrSeeThroughUI.shader" />
